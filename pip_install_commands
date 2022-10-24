@@ -1,0 +1,11 @@
+pip install numpy
+pip install torch
+pip install pillow
+pip install panda
+pip install opencv-python
+pip install -U scikit-learn
+pip install scipy
+pip install pdf2image
+pip install matplotlib
+
+conda install -c conda-forge poppler
